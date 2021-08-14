@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import logo from "../../static/images/logo.jpg";
+import logo from "../../static/images/resume.png";
 import {connect} from 'react-redux';
 import {isLoaded,isEmpty} from 'react-redux-firebase';
 import * as authActions from '../../actions/authActions'
